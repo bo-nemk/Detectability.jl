@@ -3,6 +3,11 @@ uuid = "bf50e460-2700-4654-b9c6-67f39d124f3c"
 authors = ["Niels de Koeijer"]
 version = "0.1.0"
 
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+
 [compat]
 julia = "1"
 
